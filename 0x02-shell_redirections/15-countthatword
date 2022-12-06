@@ -1,2 +1,2 @@
 #!/bin/bush
-egrep -c 'bin' /etc/passwd
+egrep-c 'bin' /etc/passwd
