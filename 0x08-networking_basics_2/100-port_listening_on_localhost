@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# this scripts is for liatening on port 98 on my localhost
+
+nc -l localhost 98
